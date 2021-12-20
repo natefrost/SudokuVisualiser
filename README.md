@@ -3,4 +3,4 @@
 
 Preview of this can be seen down below:
 
-![sudokugif](https://user-images.githubusercontent.com/77499395/146783223-5d0bfaa4-6ca2-4414-9f45-ece37e1073d6.gif)
+![sudokugif](https://user-images.githubusercontent.com/77499395/146783692-ee81c5d6-f496-43f8-ab14-1e1c8b60c385.gif)
